@@ -1,5 +1,6 @@
 # SwiftPaymentKit
 
+![CI](https://github.com/vishalgandhi90/SwiftPaymentKit/actions/workflows/ci.yml/badge.svg)
 ![Swift 5.9+](https://img.shields.io/badge/Swift-5.9+-orange.svg)
 ![iOS 15+](https://img.shields.io/badge/iOS-15+-blue.svg)
 ![SPM Compatible](https://img.shields.io/badge/SPM-Compatible-brightgreen.svg)
